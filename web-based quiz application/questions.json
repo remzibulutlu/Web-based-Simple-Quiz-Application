@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Where is the capital city of Poland ?",
+    "choice1": "Warsaw",
+    "choice2": "<Krakow",
+    "choice3": "Wroclaw",
+    "choice4": "Poznan",
+    "answer": 1
+  },
+  {
+    "question": "What is your name ? ",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "Remzi",
+    "choice4": "3",
+    "answer": 3
+  },
+  {
+    "question": " what is my surname ?",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "Bulutlu",
+    "answer": 4
+  }
+]
